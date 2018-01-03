@@ -38,5 +38,13 @@ Working on a team, you get an even wider range of benefits when using Git to kee
 
 * Different people working on the project can work on different branches, allowing them to work on separate features independently and then merge the features when they’re done.
 
+**Review work in progress**
+
+* By looking at the list of pull requests, you can see all of the different features that are currently being worked on; by clicking any given pull request you can see the latest changes and all of the discussions about the changes, check the status of an integration like a Continuous Integration \(CI\) server, or even add your own review to approve changes before they are accepted.
+
+**See team progress**
+
+* Skimming the _pulse_ or looking through the _commit history_ allows you to see what the team has been working on.
+
 
 
