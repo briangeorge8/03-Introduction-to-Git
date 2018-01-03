@@ -1,3 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [GitHub](README.md)
+* [Introduction](chapter1.md)
+
