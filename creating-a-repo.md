@@ -8,3 +8,7 @@ You can create a repository under your **username **or under an **organization**
 
 ![](/assets/4.PNG)
 
+Initializing a repository without a README will look like this:
+
+![](/assets/5.PNG)
+
