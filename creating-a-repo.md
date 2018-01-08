@@ -24,11 +24,7 @@ This will create a hidden directory where Git operates.
 
 Next type:
 
-> ```
-> git status
-> ```
-
-
+> **git status**
 
 ![](/assets/10.PNG)
 
@@ -83,6 +79,10 @@ Next save these Git commands to notepad as a text file.
 > git push -u origin --all
 >
 > git push -u origin --tags
+
+Now type, **git status. **You should see a message showing an untracked file...
+
+![](/assets/11.PNG)
 
 
 
