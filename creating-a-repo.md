@@ -24,9 +24,11 @@ This will create a hidden directory where Git operates.
 
 Next type:
 
-```
-git status
-```
+> ```
+> git status
+> ```
+
+
 
 ![](/assets/10.PNG)
 
@@ -34,69 +36,53 @@ This will show you the status of your repository and also we can use it to verif
 
 Next save these Git commands to notepad as a text file.
 
-Command line instructions
-
-Git global setup
-
-
-
-git config --global user.name "Robert Jakob"
-
-git config --global user.email "rsjakob@outlook.com"
-
-
-
-Create a new repository
-
-
-
-git clone https://gitlab.com/user-name1/test.git
-
-cd test
-
-touch README.md
-
-git add README.md
-
-git commit -m "add README"
-
-git push -u origin master
-
-
-
-Existing folder
-
-
-
-cd existing\_folder
-
-git init
-
-git remote add origin https://gitlab.com/user-name1/test.git
-
-git add .
-
-git commit -m "Initial commit"
-
-git push -u origin master
-
-
-
-Existing Git repository
-
-
-
-cd existing\_repo
-
-git remote rename origin old-origin
-
-git remote add origin https://gitlab.com/user-name1/test.git
-
-git push -u origin --all
-
-git push -u origin --tags
-
-
+> **Command line instructions**
+>
+> Git global setup
+>
+> git config --global user.name "Robert Jakob"
+>
+> git config --global user.email "rsjakob@outlook.com"
+>
+> Create a new repository
+>
+> git clone [https://gitlab.com/user-name1/test.git](https://gitlab.com/user-name1/test.git)
+>
+> cd test
+>
+> touch README.md
+>
+> git add README.md
+>
+> git commit -m "add README"
+>
+> git push -u origin master
+>
+> Existing folder
+>
+> cd existing\_folder
+>
+> git init
+>
+> git remote add origin [https://gitlab.com/user-name1/test.git](https://gitlab.com/user-name1/test.git)
+>
+> git add .
+>
+> git commit -m "Initial commit"
+>
+> git push -u origin master
+>
+> Existing Git repository
+>
+> cd existing\_repo
+>
+> git remote rename origin old-origin
+>
+> git remote add origin [https://gitlab.com/user-name1/test.git](https://gitlab.com/user-name1/test.git)
+>
+> git push -u origin --all
+>
+> git push -u origin --tags
 
 
 
