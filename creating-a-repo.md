@@ -10,7 +10,7 @@ You can create a repository under your **username **or under a **group**. For no
 
 Initializing a new repository will look like this:
 
-\(copy url for project:  [https://gitlab.com/user-name1/test.git\](https://gitlab.com/user-name1/test.git%29\)
+_copy url for project:  _[_https://gitlab.com/user-name1/test.git_](https://gitlab.com/user-name1/test.git%29\)
 
 ![](/assets/8.PNG)
 
@@ -104,9 +104,11 @@ To see all the changes that have been committed use **git log.**
 
 ![](/assets/16.PNG)
 
+To add an entire repository you can use ** git remote add **the _**remote name**_ and the _**repository url**_.
 
+> **git remote add main **_https://gitlab.com/user-name1/test.git_
 
-
+_note: it's usually a good idea to name your main repo something obvious like main, root, origin, etc..._
 
 
 
