@@ -94,15 +94,15 @@ To store our staged changes we run the **commit **command with a message describ
 
 ![](/assets/15.PNG)
 
+When adding multiple files you can use a wildcard **'\*' **to add them simultaneously.
 
+> **git add '\*.txt'**
 
+Similarly, you can commit multiple files simultaneously.
 
+To see all the changes that have been committed use **git log.**
 
-
-
-
-
-
+![](/assets/16.PNG)
 
 
 
