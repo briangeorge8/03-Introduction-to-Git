@@ -1,4 +1,4 @@
-# Introduction to GitHub
+# Introduction to Git
 
 **Git: **is a _distributed_ version control system, which means that everyone working with a project in Git has a copy of the full history of the project, not just the current state of the files.
 

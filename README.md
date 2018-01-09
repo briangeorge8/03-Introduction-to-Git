@@ -1,4 +1,4 @@
-# GitHub
+# Git and GitLab
 
 * Introduction
 * 2
