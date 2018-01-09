@@ -84,5 +84,31 @@ Now type, **git status. **You should see a message showing an untracked file...
 
 ![](/assets/11.PNG)
 
+To tell Git to start tracking changes made to this file, we need to add it to the staging area by using **git add**.
+
+![](/assets/14.PNG)
+
+Now using **git status**, you should see the **"new file".**  The files added are now in the Staging Area.  They have not been committed to the repository.  So we can add and remove these files before storing them in the repository.
+
+To store our staged changes we run the **commit **command with a message describing what we've changed.
+
+![](/assets/15.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
