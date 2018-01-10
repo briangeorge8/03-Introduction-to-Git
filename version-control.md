@@ -22,5 +22,33 @@ The **pull **command allows us to check for changes in the repository and pull d
 
 > **git pull \[remote repo name\] \[branch name\]**
 
+#### Differences
+
+The **git diff** command allows you to see what changes have been made to thd repository since your last commit.
+
+> **git diff HEAD**
+>
+> \(**HEAD **is a pointer that holds your position within all your different commits.  By default **HEAD **points to your most recent commit, so it can be used as a quick way to reference that commit without having to look up the SHA.\)
+
+**Git diff** can also be used to see changes in files that are in the staging area.
+
+> **git diff --staged**
+
+#### Reset
+
+In order to remove files from the staging area use **git reset.**
+
+> **git reset \[file name or file path\]**
+
+To revert files/directories back to a previous commit use **checkout.**
+
+> **git checkout -- \[file or directory\]**
+>
+> \(The **"--"** signify's there are no more option after the command.\)
+
+
+
+
+
 
 
