@@ -10,5 +10,19 @@ This diagram shows:
 * A new branch called feature \(because we’re doing ‘feature work’ on this branch\)
 * The journey that feature takes before it’s merged into master
 
-![](/assets/17.PNG)
+![](/assets/17.PNG)To create a new branch:
+
+> **git branch \[branch name\]**
+
+To have git point to the new branch:
+
+> **git checkout \[branch\]**
+
+To remove files from the new branch you can use:
+
+> **git rm \[file name\]**
+>
+> \(You can also use the **-r** option to recursively remove all files and folders from a directory\)
+
+
 

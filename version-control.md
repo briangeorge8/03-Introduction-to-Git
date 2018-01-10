@@ -48,7 +48,3 @@ To revert files/directories back to a previous commit use **checkout.**
 
 
 
-
-
-
-
