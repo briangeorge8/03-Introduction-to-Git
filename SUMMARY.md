@@ -6,6 +6,6 @@
 * [Repository Page](repository-page.md)
 * [README.md](readmemd.md)
 * [Creating a Repo](creating-a-repo.md)
+* [Cloning and Branching](branching.md)
 * [Version Control](version-control.md)
-* [Branches](branching.md)
 
