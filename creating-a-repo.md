@@ -1,5 +1,9 @@
 # Creating a New Repository
 
+#### Root Repository or Mater Branch
+
+![](/assets/12.PNG)
+
 To create a new repository, click "Create a project".
 
 ![](/assets/7.PNG)
@@ -10,9 +14,9 @@ You can create a repository under your **username **or under a **group**. For no
 
 Initializing a new repository will look like this:
 
-_copy url for project:  _[_https://gitlab.com/user-name1/test.git_](https://gitlab.com/user-name1/test.git%29\)
-
 ![](/assets/8.PNG)
+
+_copy url for project:  _[_https://gitlab.com/user-name1/test.git_](https://gitlab.com/user-name1/test.git%29\)
 
 The README file can be created with your project. It's optional and can be added later if necessary. Mostly, if you're creating a new repo you'll want to initialize it with a README.  If you already have a repo you're wanting to upload you can skip this step. The README can be used in various ways, but it will allow you and others to clone the project immediately.
 
@@ -104,11 +108,13 @@ To see all the changes that have been committed use **git log.**
 
 ![](/assets/16.PNG)
 
-To add an entire repository you can use ** git remote add **the _**remote name**_ and the _**repository url**_.
+To map a remote repository to your local _git config_** **use:** git, remote add, **the _**remote name,**_ and the _**repository url**_.
 
 > **git remote add main **[https://gitlab.com/user-name1/test.git](https://gitlab.com/user-name1/test.git)
 
-_note: it's usually a good idea to name your main repo something obvious like main, root, origin, etc..._
+_note: it's usually a good idea to name your main repo something obvious like master, main, root, origin, etc..._
 
+For more information on **git config:**
 
+[https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config)
 

@@ -1,6 +1,4 @@
-# Repository Page
+# Download Git
 
-Root Repository or Mater Branch
-
-![](/assets/12.PNG)
+To download the latest version of git for windows go to: [http://gitforwindows.org/](http://gitforwindows.org/)
 

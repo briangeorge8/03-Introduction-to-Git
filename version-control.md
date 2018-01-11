@@ -18,9 +18,7 @@ When you open a _**pull request**_**,** you’re proposing your changes and requ
 
 As soon as you make a commit, you can open a pull request and start a discussion, even before the code is finished.
 
-&lt;/br&gt;
-
-The **pull **command allows us to check for changes in the repository and pull down any new changes.
+The **pull command **allows us to check for changes in the repository and pull down any new changes and updating your local repository or branch.
 
 > **git pull \[remote repo name\] \[branch name\]**
 
@@ -30,7 +28,7 @@ The **git diff** command allows you to see what changes have been made to thd re
 
 > **git diff HEAD**
 >
-> \(**HEAD **is a pointer that holds your position within all your different commits.  By default **HEAD **points to your most recent commit, so it can be used as a quick way to reference that commit without having to look up the SHA.\)
+> \(**HEAD **is a pointer that holds your position within all your different commits.  By default **HEAD **points to the same place as your most recent commit, so it can be used as a quick way to reference that commit without having to look up the SHA.\)
 
 **Git diff** can also be used to see changes in files that are in the staging area.
 
@@ -47,6 +45,10 @@ To revert files/directories back to a previous commit use **checkout.**
 > **git checkout -- \[file or directory\]**
 >
 > \(The **"--"** signify's there are no more option after the command.\)
+>
+> **git checkout b7119f2 path/to/file path/to/file**
+>
+> \(Use the SHA hash if you would like to specify a previous commit\)
 
 
 
