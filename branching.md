@@ -18,11 +18,27 @@ To have git point to the new branch:
 
 > **git checkout \[branch\]**
 
+To move files or folders:
+
+> **git mv \[target destination\]**
+
 To remove files from the new branch you can use:
 
 > **git rm \[file name\]**
 >
 > \(You can also use the **-r** option to recursively remove all files and folders from a directory\)
+
+To make a directory:
+
+> **git mkdir \[name of directory\]**
+
+To "save" changes:
+
+> **git commit -a -m "Message"**
+>
+> Use **-a** for all, **-m** to add a message.
+
+
 
 
 
