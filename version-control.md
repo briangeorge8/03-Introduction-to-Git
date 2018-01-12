@@ -6,7 +6,7 @@ A **version control system** is a tool that lets you track the history and attri
 
 #### Push
 
-The **push **command indicates to Git where your repository is located and allows you to **push **those changes when you're ready.
+The **push **command indicates to Git where your repository is located and allows you to **push **those changes when you're ready. Push creates a local branch in the destination repository. Which can then be inspected and merged into the master. Git will only allow a **fast-forward** merge.  In other words, the commit history of your branch first needs to match the history of the master branch.
 
 > **git push -u \[remote repo name\] \[branch name\]**
 >
@@ -21,6 +21,12 @@ As soon as you make a commit, you can open a pull request and start a discussion
 The **pull command **allows us to check for changes in the repository and pull down any new changes and updating your local repository or branch.
 
 > **git pull \[remote repo name\] \[branch name\]**
+
+#### Fetch
+
+If you want to review new code in a repository before merging it with your own you can use **Fetch**. This creates a **remote branch** in your repository that you are able to inspect for changes. 
+
+> **git fetch \[remote repo name\] \[branch name\]**
 
 #### Differences
 
@@ -52,7 +58,17 @@ To revert files/directories back to a previous commit use **checkout.**
 
 # Merge
 
+Once everyone has reviewed the new code and you are ready to commit those changes to the master repository, you can use Merge to save the  new feratures/updated code to the master repository. Merging is a non-destructive operation.  The existing branches are not changed in any way.  The new code will only be added on top of the master.
+
+> **git merge \[remote repo name \(master\)\] \[branch name\]**
+
 ##### More on Syncing: [https://www.atlassian.com/git/tutorials/syncing](https://www.atlassian.com/git/tutorials/syncing)
+
+After merging your branch to the master, you can delete your local branch by using:
+
+> **git branch -d \[branch name\]**
+>
+> \(This will only work after a merge has been made.  To force a delete use **--force** \(**-f**\) or **-D**, which combines **-d** and **-f**.\)
 
 
 
