@@ -50,5 +50,9 @@ To revert files/directories back to a previous commit use **checkout.**
 >
 > \(Use the SHA hash if you would like to specify a previous commit\)
 
+# Merge
+
+##### More on Syncing: [https://www.atlassian.com/git/tutorials/syncing](https://www.atlassian.com/git/tutorials/syncing)
+
 
 
