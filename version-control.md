@@ -18,13 +18,13 @@ When you open a _**pull request**_**,** you’re proposing your changes and requ
 
 As soon as you make a commit, you can open a pull request and start a discussion, even before the code is finished.
 
-The **pull command **allows us to check for changes in the repository and pull down any new changes and updating your local repository or branch.
+The **pull command **allows us to check for changes in the repository and pull down any new changes and update your local repository or branch.
 
 > **git pull \[remote repo name\] \[branch name\]**
 
 #### Fetch
 
-If you want to review new code in a repository before merging it with your own you can use **Fetch**. This creates a **remote branch** in your repository that you are able to inspect for changes. 
+If you want to review new code in a repository before merging it with your own you can use **Fetch**. This creates a **remote branch** in your repository that you are able to inspect for changes.
 
 > **git fetch \[remote repo name\] \[branch name\]**
 
