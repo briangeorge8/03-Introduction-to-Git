@@ -14,13 +14,13 @@ The **push **command indicates to Git where your repository is located and allow
 
 #### Pull
 
-When you open a _**pull request**_**,** you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show differences \(_**diffs**_\) of the content from both branches.
-
-As soon as you make a commit, you can open a pull request and start a discussion, even before the code is finished.
-
 The **pull command **allows us to check for changes in the repository and pull down any new changes and update your local repository or branch.
 
 > **git pull \[remote repo name\] \[branch name\]**
+
+When you open a _**pull request**_**,** you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show differences \(_**diffs**_\) of the content from both branches.
+
+As soon as you make a commit, you can open a pull request and start a discussion, even before the code is finished.
 
 #### Fetch
 
