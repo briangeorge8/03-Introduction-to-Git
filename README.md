@@ -1,8 +1,12 @@
 # Git and GitLab
 
 * Introduction
-* 2
-* 3
+* Key Concepts
+* Download Git
+* README.md
+* Creating a Repo
+* Cloning and Branching
+* Version Control
 
 
 
