@@ -8,5 +8,9 @@
 * Cloning and Branching
 * Version Control
 
+Git Reference:
+
+[https://git-scm.com/docs](https://git-scm.com/docs)
+
 
 

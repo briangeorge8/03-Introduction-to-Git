@@ -32,6 +32,10 @@ If you want to review new code in a repository before merging it with your own y
 
 The **git diff** command allows you to see what changes have been made to thd repository since your last commit.
 
+> **git diff --no-index \[--options\] \[--\] -&lt;path&gt;...\]**
+>
+> This command is used to compare two paths on the filesystem. **--no-index **can be imitted when running the command in a working tree controlled by Git and at least one of the paths points outside the working tree.
+>
 > **git diff HEAD**
 >
 > \(**HEAD **is a pointer that holds your position within all your different commits.  By default **HEAD **points to the same place as your most recent commit, so it can be used as a quick way to reference that commit without having to look up the SHA.\)
