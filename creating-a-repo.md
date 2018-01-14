@@ -1,6 +1,6 @@
 # Creating a New Repository
 
-#### Root Repository or Mater Branch
+#### Root Repository or Master Branch
 
 ![](/assets/12.PNG)
 
