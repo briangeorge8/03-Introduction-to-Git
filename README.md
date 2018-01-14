@@ -1,4 +1,4 @@
-# Git and GitLab
+# ![](/assets/logo@2x.png)
 
 * Introduction
 * Key Concepts
