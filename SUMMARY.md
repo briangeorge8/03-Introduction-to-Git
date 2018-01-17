@@ -1,6 +1,6 @@
 # Summary
 
-* [GitHub](README.md)
+* [Git](README.md)
 * [Introduction](chapter1.md)
 * [Key Concepts](key-concepts.md)
 * [Download Git](repository-page.md)
