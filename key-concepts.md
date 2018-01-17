@@ -1,7 +1,5 @@
 # Key Concepts
 
-
-
 **Commit**
 
 Whenever you save your changes in one or more files, you can create a new commit in Git. A commit is like a snapshot of your entire repository at that point in time, not just of one or two files.
@@ -9,6 +7,10 @@ Whenever you save your changes in one or more files, you can create a new commit
 **Commit Message**
 
 Every time you make a commit, you need to supply a message that describes _why_ the change was made. That commit message is invaluable when trying to understand later why a certain change was implemented.
+
+Stage Area
+
+
 
 **Branch**
 
