@@ -16,11 +16,15 @@ This diagram shows:
 
 ![](/assets/17.PNG)To create a new branch:
 
-> **git branch \[new branch name\]**
+> **git branch \[new branch name\] **
 
 To have git point to the new branch:
 
 > **git checkout \[branch\]**
+
+To create a new branch and point to it:
+
+> **git checkout -b \[new branch name\]**
 
 To move files or folders:
 
