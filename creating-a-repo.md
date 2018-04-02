@@ -20,6 +20,15 @@ _copy url for project:  _[_https://gitlab.com/user-name1/test.git_](https://gitl
 
 The README file can be created with your project. It's optional and can be added later if necessary. Mostly, if you're creating a new repo you'll want to initialize it with a README.  If you already have a repo you're wanting to upload you can skip this step. The README can be used in various ways, but it will allow you and others to clone the project immediately.
 
+---
+
+From your command prompt or terminal go ahead and configure your global Git account information:
+
+```
+git config --global user.name "Firstname Lastname"
+git config --global user.email username@email.com
+```
+
 Now that we've setup your **GitLab **account and created a new repository, navigate to your project folder through the command prompt or Git Bash and type:
 
 ![](/assets/9.PNG)
