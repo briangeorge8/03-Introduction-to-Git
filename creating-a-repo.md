@@ -29,7 +29,9 @@ git config --global user.name "Firstname Lastname"
 git config --global user.email username@email.com
 ```
 
-[Additional Git Config Settings](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+###### Reference: [Additional Git Config Settings](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+
+###### 
 
 Now that we've setup your **GitLab **account and created a new repository, navigate to your project folder through the command prompt or Git Bash and type:
 
