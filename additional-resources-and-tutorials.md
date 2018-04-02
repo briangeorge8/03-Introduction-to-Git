@@ -8,6 +8,8 @@
 
 #### [Try Git](https://try.github.io/levels/1/challenges/1)
 
+#### [Git: The Simple Guide](http://rogerdudler.github.io/git-guide/)
+
 #### [GitDocs: Git Tutorial](https://git-scm.com/docs/gittutorial)
 
 #### [Learn Git](https://www.tutorialspoint.com/git/index.htm)

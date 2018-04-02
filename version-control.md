@@ -1,8 +1,12 @@
 # Introduction to Version Control
 
+---
+
 A **version control system** is a tool that lets you track the history and attribution of your project files over time which helps with project management and keeping track of development with multiple contributors.  Modern version control systems help teams work simultaneously by giving each developer his or her own sandbox and preventing their work in progress from conflicting. While also providing a mechanism to merge changes and synchronize work.
 
 **Distributed version control systems**, like Git, give each developer their own clone of the repository which also tracks the project's history.
+
+#### ![](/assets/git1.png)
 
 #### Push
 
