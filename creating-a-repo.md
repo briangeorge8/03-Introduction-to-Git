@@ -26,7 +26,7 @@ Now that we've setup your **GitLab **account and created a new repository, navig
 
 This will create a hidden directory where Git operates.
 
-Next type:
+**Next type:**
 
 > **git status**
 
@@ -34,7 +34,7 @@ Next type:
 
 This will show you the status of your repository and also we can use it to verify Git has initialized correctly.
 
-Next save these Git commands to notepad as a text file.
+**Next save these Git commands to notepad as a text file.**
 
 > **Command line instructions**
 >
@@ -84,7 +84,7 @@ Next save these Git commands to notepad as a text file.
 >
 > git push -u origin --tags
 
-Now type, **git status. **You should see a message showing an untracked file...
+**Now type, **_**git status**_**. **You should see a message showing an untracked file...
 
 ![](/assets/11.PNG)
 
@@ -112,7 +112,7 @@ To map a remote repository to your local _git config_** **use:** git, remote add
 
 > **git remote add main **[https://gitlab.com/user-name1/test.git](https://gitlab.com/user-name1/test.git)
 
-_note: it's usually a good idea to name your main repo something obvious like master, main, root, origin, etc..._
+_note: it's usually a good idea to name your main repo something obvious like master, main, root, etc..._
 
 For more information on **git config:**
 
