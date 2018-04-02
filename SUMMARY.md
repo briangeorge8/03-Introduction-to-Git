@@ -8,4 +8,5 @@
 * [Creating a Repo](creating-a-repo.md)
 * [Cloning and Branching](branching.md)
 * [Version Control](version-control.md)
+* [Additional Resources and Tutorials](additional-resources-and-tutorials.md)
 
