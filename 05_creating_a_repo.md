@@ -16,7 +16,7 @@ Initializing a new repository will look like this:
 
 ![](/assets/8.PNG)
 
-_copy url for project:  _[_https://gitlab.com/user-name1/test.git_](https://gitlab.com/user-name1/test.git%29\)
+copy url for project:  [_https://gitlab.com/user-name1/test.git_] (https://gitlab.com/user-name1/test.git%29\)
 
 The README file can be created with your project. It's optional and can be added later if necessary. Mostly, if you're creating a new repo you'll want to initialize it with a README.  If you already have a repo you're wanting to upload you can skip this step. The README can be used in various ways, but it will allow you and others to clone the project immediately.
 
