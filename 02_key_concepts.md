@@ -8,7 +8,7 @@ Whenever you save your changes in one or more files, you can create a new commit
 
 Every time you make a commit, you need to supply a message that describes _why_ the change was made. That commit message is invaluable when trying to understand later why a certain change was implemented.
 
-**Stage **
+**Stage**
 
 Staging means that you have pending updates that git is aware of, but the changes have not been made permanent in the local repository.
 
