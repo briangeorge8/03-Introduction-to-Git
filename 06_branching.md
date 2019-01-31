@@ -4,7 +4,7 @@ In order to start working on an existing project and creating a branch you will 
 
 > **git clone \[remote repository URL\]**
 
-**Branching ** is the way to work on different versions of a repository at one time.
+**Branching** is the way to work on different versions of a repository at one time.
 
 When you create a branch off the master branch, you’re making a copy, or snapshot, of the master repository as it was at that point in time. If someone else made changes to the master branch while you were working on your branch, you could pull in those updates.
 
@@ -16,7 +16,7 @@ This diagram shows:
 
 ![](/assets/17.PNG)To create a new branch:
 
-> **git branch \[new branch name\] **
+> **git branch \[new branch name\]**
 
 To have git point to the new branch:
 
