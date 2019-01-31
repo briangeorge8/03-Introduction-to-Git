@@ -97,7 +97,7 @@ This will show you the status of your repository and also we can use it to verif
 >
 > git push -u origin --tags
 
-**Now type, **_**git status**_**. **You should see a message showing an untracked file...
+Now type, **git status**. You should see a message showing an untracked file...
 
 ![](/assets/11.PNG)
 
