@@ -107,11 +107,11 @@ To tell Git to start tracking changes made to this file, we need to add it to th
 
 Now using **git status**, you should see the **"new file".**  The files added are now in the Staging Area.  They have not been committed to the repository.  So we can add and remove these files before storing them in the repository.
 
-To store our staged changes we run the **commit **command with a message describing what we've changed.
+To store our staged changes we run the **commit** command with a message describing what we've changed.
 
 ![](/assets/15.PNG)
 
-When adding multiple files you can use a wildcard **'\*' **to add them simultaneously.
+When adding multiple files you can use a wildcard **'\*'** to add them simultaneously.
 
 > **git add '\*.txt'**
 
@@ -121,9 +121,9 @@ To see all the changes that have been committed use **git log.**
 
 ![](/assets/16.PNG)
 
-To map a remote repository to your local _git config_** **use:** git, remote add, **the _**remote name,**_ and the _**repository url**_.
+To map a remote repository to your local _git config_ use: **git, remote add, the _remote name, and the _repository url.**
 
-> **git remote add main **[https://gitlab.com/user-name1/test.git](https://gitlab.com/user-name1/test.git)
+> **git remote add main** [https://gitlab.com/user-name1/test.git](https://gitlab.com/user-name1/test.git)
 
 _note: it's usually a good idea to name your main repo something obvious like master, main, root, etc..._
 
