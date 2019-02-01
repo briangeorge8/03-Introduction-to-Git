@@ -125,7 +125,9 @@ To map a remote repository to your local _git config_ use: **git, remote add, th
 
 > **git remote add main** [https://gitlab.com/user-name1/test.git](https://gitlab.com/user-name1/test.git)
 
-_note: it's usually a good idea to name your main repo something obvious like master, main, root, etc..._
+note: it's usually a good idea to name your main repo something obvious like master, main, root, etc...  
+
+![](/assets/VersionCon3.PNG)
 
 For more information on **git config:**
 
