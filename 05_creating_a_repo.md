@@ -127,7 +127,7 @@ To map a remote repository to your local _git config_ use: **git, remote add, th
 
 note: it's usually a good idea to name your main repo something obvious like master, main, root, etc...  
 
-![](/assets/VersionCon3.PNG)
+![](/assets/Workflow.PNG)
 
 For more information on **git config:**
 
