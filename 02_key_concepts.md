@@ -1,5 +1,7 @@
 # Key Concepts
 
+<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+
 **Commit**
 
 Whenever you save your changes in one or more files, you can create a new commit in Git. A commit is like a snapshot of your entire repository at that point in time, not just of one or two files.
