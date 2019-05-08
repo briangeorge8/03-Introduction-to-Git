@@ -1,5 +1,7 @@
 # Introduction to Git
 
+<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+
 ![](/assets/28.png)
 
 _**Git:**_ is a _distributed_ version control system, which means that everyone working with a project in Git has a copy of the full history of the project, not just the current state of the files.
