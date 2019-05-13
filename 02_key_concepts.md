@@ -42,3 +42,4 @@ Often you’ll want to download a copy of a project from GitHub so you can work 
 
 Sometimes you don’t have the necessary permission to make changes directly to a project.  If you want to submit changes to such a project, first you need to make a copy of the project under _your_ user account on GitHub. That process is called _forking_ the repository. You can then clone it, make changes, and submit them back to the original project using a pull request.
 
+<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/03_download_git.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
