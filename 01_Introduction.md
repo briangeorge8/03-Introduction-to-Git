@@ -51,4 +51,4 @@ Working on a team, you get an even wider range of benefits when using Git to kee
 * Skimming the _pulse_ or looking through the _commit history_ allows you to see what the team has been working on.
 
 
-
+<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/02_key_concepts.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
