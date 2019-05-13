@@ -136,7 +136,7 @@ note: it's usually a good idea to name your main repo something obvious like mas
 
 ![](/assets/Workflow.PNG)
 
-<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/04_creating_a_repo.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/05_branching.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
 
 For more information on **git config:**
 
