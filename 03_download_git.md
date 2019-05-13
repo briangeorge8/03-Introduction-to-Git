@@ -28,3 +28,4 @@ Once the download has completed start the **Git Setup** and follow the prompts a
 
 ![](/assets/27.PNG)
 
+<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/04_creating_a_repo.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
