@@ -16,4 +16,4 @@
 * **[GitDocs: Git Tutorial]**(https://git-scm.com/docs/gittutorial)
 * **[Learn Git]**(https://www.tutorialspoint.com/git/index.htm)
 
-<a href="https://github.com/CyberTrainingUSAF/04-IDE-s-and-Algorithms-Pt.-1/blob/master/00-Table-of-Contents.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+<a href="https://github.com/CyberTrainingUSAF/04-IDE-s-and-Algorithms-Pt.-1/blob/master/00-Table-of-Contents.md" rel="Continue to IDE's & Algorithms subject"> IDE's & Algorithms subject </a>
