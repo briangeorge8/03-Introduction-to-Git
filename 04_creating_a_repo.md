@@ -31,6 +31,11 @@ git config --global user.name "Firstname Lastname"
 git config --global user.email username@email.com
 ```
 
+
+<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/04_creating_a_repo.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+
+
+
 ###### Reference: [Additional Git Config Settings](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 
 ###### 
@@ -131,7 +136,8 @@ note: it's usually a good idea to name your main repo something obvious like mas
 
 ![](/assets/Workflow.PNG)
 
+<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/04_creating_a_repo.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+
 For more information on **git config:**
 
 [https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config)
-
