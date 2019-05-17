@@ -16,4 +16,9 @@
 * **[GitDocs: Git Tutorial]**(https://git-scm.com/docs/gittutorial)
 * **[Learn Git]**(https://www.tutorialspoint.com/git/index.htm)
 
+---
+**End of Introduction to Git**
+
 <a href="https://github.com/CyberTrainingUSAF/04-IDE-s-and-Algorithms-Pt.-1/blob/master/00-Table-of-Contents.md" rel="Continue to IDE's & Algorithms subject"> Go to IDE's & Algorithms subject </a>
+
+<a href="https://github.com/CyberTrainingUSAF/01-Course-Introduction-and-setup/blob/master/README.md" rel="Return to Course Introduction"> Return to Course introduction </a>
