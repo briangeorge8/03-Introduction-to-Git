@@ -80,5 +80,7 @@ After merging your branch to the master, you can delete your local branch by usi
 >
 > \(This will only work after a merge has been made.  To force a delete use **--force** \(**-f**\) or **-D**, which combines **-d** and **-f**.\)
 
+---
+
 <a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/07_resources.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
 
