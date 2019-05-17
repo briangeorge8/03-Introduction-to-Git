@@ -14,4 +14,6 @@ Git Reference:
 
 [https://git-scm.com/docs](https://git-scm.com/docs)
 
+---
+
 <a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/01_Introduction.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
