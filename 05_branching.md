@@ -48,5 +48,6 @@ To "save" changes:
 >
 > Use **-a** for all, **-m** to add a message.
 
-<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/06_version_control.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+---
 
+<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/06_version_control.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
