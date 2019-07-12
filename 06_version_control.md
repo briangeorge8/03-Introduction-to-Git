@@ -82,5 +82,46 @@ After merging your branch to the master, you can delete your local branch by usi
 
 ---
 
+Now that we've gone over the basics for git you may be overwhelmed. That is ok, as you use git every day you will become more familiar with the commands and you'll realize where and why it is so advantageous. Now we can go through a scenario and you can see how quick and easy git can be when you get used to it.
+
+# **Common workflow when working with git**
+
+### **Create your branch that you're working on**
+> git branch &lt;your branch name>
+
+### **Display all branches to see which branch you're currently on**
+> git branch
+
+### **Switch to your branch**
+> git checkout &lt;your branch name>  
+> git branch  
+
+> git status  
+> git add .  
+> git commit -m "changed files from my branch"
+### **We haven't affected our local master branch or our remote repository**
+
+### **Push your branch to the remote**
+> git push -u origin &lt;your branch name>  
+> git branch -a
+
+## **Merge your branch with master**
+### **Checkout to master**
+> git checkout master  
+> git pull origin master  
+### **Check branches that are merged so far**
+> git branch --merged
+### **Changes are merged**
+> git merge &lt;your branch name>  
+### **Push to remote master**
+> git push origin master
+
+### **If feature you're working on is done you can delete branch or keep it, that is up to your dev environment**
+> git branch -d &lt;your branch name>  
+> git branch -a  
+### **Deleted locally, but now need to delete remote**
+> git push origin --delete &lt;your branch name>
+
+---
 <a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/07_resources.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
 
