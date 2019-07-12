@@ -54,17 +54,19 @@ This will create a hidden directory where Git operates.
 
 This will show you the status of your repository and also we can use it to verify Git has initialized correctly.
 
-**Next save these Git commands to notepad as a text file.**
+**Next save these Git commands to notepad as a text file for future reference.**
 
-> **Command line instructions**
+## **Command line instructions**
 >
-> Git global setup
+**Git global setup**
 >
 > git config --global user.name "Robert Jakob"
 >
-> git config --global user.email "rsjakob@outlook.com"
->
-> Create a new repository
+> git config --global user.email "rsjakob@outlook.com"  
+
+## **Utilize one of the following three options**
+
+**Creating a new repository**
 >
 > git clone [https://gitlab.com/user-name1/test.git](https://gitlab.com/user-name1/test.git)
 >
@@ -78,7 +80,7 @@ This will show you the status of your repository and also we can use it to verif
 >
 > git push -u origin master
 >
-> Existing folder
+**Push an Existing Folder**
 >
 > cd existing\_folder
 >
@@ -92,7 +94,7 @@ This will show you the status of your repository and also we can use it to verif
 >
 > git push -u origin master
 >
-> Existing Git repository
+**Push an Existing Git Repository**
 >
 > cd existing\_repo
 >
