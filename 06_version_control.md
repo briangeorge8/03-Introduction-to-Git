@@ -82,9 +82,9 @@ After merging your branch to the master, you can delete your local branch by usi
 
 ---
 
+# **Common workflow when working with git**
 Now that we've gone over the basics for git you may be overwhelmed. That is ok, as you use git every day you will become more familiar with the commands and you'll realize where and why it is so advantageous. Now we can go through a scenario and you can see how quick and easy git can be when you get used to it.
 
-# **Common workflow when working with git**
 
 ### **Create your branch that you're working on**
 > git branch &lt;your branch name>
