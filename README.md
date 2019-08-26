@@ -1,6 +1,9 @@
 # ![](/assets/logo@2x.png)
 
-<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 * Introduction
 * Key Concepts
@@ -16,4 +19,5 @@ Git Reference:
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/01_Introduction.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](/01_Introduction.md)|
+|---|
