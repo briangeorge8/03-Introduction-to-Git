@@ -1,4 +1,4 @@
-|[Return to TOC](/00-Table-of-Contents)|
+|[Return to TOC](/00-Table-of-Contents.md)|
 |---|
 
 ---
