@@ -124,5 +124,6 @@ Now that we've gone over the basics for git you may be overwhelmed. That is ok, 
 > git push origin --delete &lt;your branch name>
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/07_resources.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
 
+|[Next Topic](07_resources.md)|
+|---|
