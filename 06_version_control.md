@@ -1,8 +1,9 @@
-# Introduction to Version Control
-
-<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to TOC](/00-Table-of-Contents)|
+|---|
 
 ---
+
+## Introduction to Version Control
 
 A **version control system** is a tool that lets you track the history and attribution of your project files over time which helps with project management and keeping track of development with multiple contributors.  Modern version control systems help teams work simultaneously by giving each developer his or her own sandbox and preventing their work in progress from conflicting. While also providing a mechanism to merge changes and synchronize work.
 
