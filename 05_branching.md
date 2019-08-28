@@ -1,6 +1,9 @@
-# Cloning and Branching
+|[Return to TOC](/00-Table-of-Contents)|
+|---|
 
-<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+---
+
+## Cloning and Branching
 
 In order to start working on an existing project and creating a branch you will first have to **clone **the repository on your local machine.
 
@@ -50,4 +53,5 @@ To "save" changes:
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/06_version_control.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](06_version_control.md)|
+|---|
