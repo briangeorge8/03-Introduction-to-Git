@@ -1,6 +1,9 @@
-# Download Git
+|[Return to TOC](/00-Table-of-Contents)|
+|---|
 
-<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+---
+
+## Download Git
 
 To download the latest version of git for windows go to: [http://gitforwindows.org/](http://gitforwindows.org/)
 
@@ -30,4 +33,5 @@ Once the download has completed start the **Git Setup** and follow the prompts a
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/04_creating_a_repo.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](04_creating_a_repo.md)|
+|---|
