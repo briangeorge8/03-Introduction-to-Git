@@ -1,6 +1,9 @@
-# Introduction to Git
+|[Return to TOC](/00-Table-of-Contents.md)|
+|---|
 
-<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+---
+
+# Introduction to Git
 
 ![](/assets/28.png)
 
@@ -52,4 +55,5 @@ Working on a team, you get an even wider range of benefits when using Git to kee
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/02_key_concepts.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](02_key_concepts.md)|
+|---|
