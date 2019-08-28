@@ -25,7 +25,7 @@
 
 <a href="https://github.com/CyberTrainingUSAF/03-IDE-s-and-Algorithms-Pt.-1/blob/master/00-Table-of-Contents.md" > Pseudocode, debugging, & IDEs's </a>
 
-|[ Next Course: Pseudocode](//03-IDE-s-and-Algorithms-Pt.-1/00-Table-of-Contents.md)|
+|[ Next Course: Pseudocode](/CyberTrainingUSAF/03-IDE-s-and-Algorithms-Pt.-1/blob/master/00-Table-of-Contents.md)|
 |---|
 
 <a href="https://github.com/CyberTrainingUSAF/01-Course-Introduction-and-setup/blob/master/README.md" rel="Return to Course Introduction"> Return to Course introduction </a>
