@@ -1,6 +1,9 @@
-# Creating a New Repository
+|[Return to TOC](/00-Table-of-Contents)|
+|---|
 
-<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+---
+
+## Creating a New Repository
 
 #### Root Repository or Master Branch
 
@@ -144,4 +147,5 @@ For more information on **git config:**
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/03-Introduction-to-Git/blob/master/05_branching.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](05_branching.md)|
+|---|
